@@ -1,2 +1,2 @@
 ### Intention
-Essays here in order to pressure me academic writing.
+An essays project in order to maintain a pressure on me  which keeps me academic writing.
