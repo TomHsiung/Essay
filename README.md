@@ -1,5 +1,5 @@
 ### Intention
-An essays project in order to maintain a pressure on me  which keeps me academic writing.
+An essays project in order to maintain a pressure on me  which keeps me academically writing.
 
 ### "May The Force Be With You"
 「能定義自身的不是血統，而是做出選擇」
